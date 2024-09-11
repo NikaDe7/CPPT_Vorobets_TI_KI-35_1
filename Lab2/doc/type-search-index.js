@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"KI_305.Vorobets.Lab2","l":"Cat"},{"p":"KI_305.Vorobets.Lab2","l":"CatApp"}];updateSearchResults();
