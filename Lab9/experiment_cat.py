@@ -26,6 +26,9 @@ class ExperimentCat(Cat):
 
     # Method to check status experiment
     def check_experiment(self):
+        """
+
+        """
         if self.poison == 1 and self.location == "Box":
             result = random.randint(0, 1)
             if result == 0:
